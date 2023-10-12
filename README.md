@@ -1,18 +1,18 @@
-# ComfyUI community manual
+# ComfyUI 社区手册
 
-This is the repo of the community managed manual of ComfyUI which can be found [here](https://blenderneko.github.io/ComfyUI-docs/). If you're looking to contribute a good place to start is to examine our contribution guide [here](https://blenderneko.github.io/ComfyUI-docs/Contributing%20Documentation/). The main focus of this project right now is to complete the getting started, interface and core nodes section.
+这是 ComfyUI 的社区管理手册的仓库，可以在[这里](https://blenderneko.github.io/ComfyUI-docs/)找到。如果您想做出贡献，一个好的起点是查看我们的贡献指南[这里](https://blenderneko.github.io/ComfyUI-docs/Contributing%20Documentation/)。该项目目前的主要焦点是完成入门、界面和核心节点部分。
 
-Current roadmap:
+当前路线图：
 
-- [ ] getting started
-- [ ] interface
-- [ ] core nodes
-  - [ ] Sampling
-  - [ ] Loaders
-  - [ ] Conditioning
-  - [ ] Latent
-  - [ ] Image
-  - [ ] mask
-  - [ ] Advanced
-  - [ ] Utils
-  - [ ] _for_testing?
+- [ ] 入门
+- [ ] 界面
+- [ ] 核心节点
+  - [ ] 采样
+  - [ ] 加载器
+  - [ ] 调节
+  - [ ] 潜在
+  - [ ] 图像
+  - [ ] 遮罩
+  - [ ] 高级
+  - [ ] 实用程序
+  - [ ] _用于测试？
